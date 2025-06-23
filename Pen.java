@@ -12,6 +12,7 @@ public class Pen {
 
     }
     synchronized public void done() {
+
         System.out.println("Done writing with pen");
     }
 }
